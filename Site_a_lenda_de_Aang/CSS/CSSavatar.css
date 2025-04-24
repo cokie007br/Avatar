@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    background-image: ;
+}
+#tituloPrincipal{
+    border: 10px solid rgb(212, 199, 182);
+    background-color: rgb(228, 214, 196);
+    text-align: center;
+    font-size: 100px;
+    margin-top: 30px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+#tituloSecundario{
+    text-align: center
+}
